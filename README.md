@@ -2,6 +2,9 @@
 
 This is the backend part of **The Bhanu's Bank** project. This project handles the server-side operations, including account management, transaction processing, and authentication.
 
+For the frontend part of this project, visit the GitHub repository:
+[Bhanu's Bank - Frontend](https://github.com/cherupallybhanuteja/bhanu-bank-frontend)
+
 ## Features:
 - **User Authentication**: Secured login and authentication using JWT.
 - **Account Management**: Users can view their account details, create or update PINs, and manage their profile.
